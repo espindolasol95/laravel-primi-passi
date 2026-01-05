@@ -7,6 +7,6 @@
     <title>about</title>
 </head>
 <body>
-    <h1>pippo,pluto e paperino</h1>
+    <h1>SIAMO pippo,pluto e paperino</h1>
 </body>
 </html>
